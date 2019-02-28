@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NotePad</string>
+    <string name="kotlin">Hello Kotlin!</string>
+    <string name="java">Hello Java!</string>
+    <string name="to_java">To java</string>
+    <string name="to_kotlin">To Kotlin</string>
 </resources>
