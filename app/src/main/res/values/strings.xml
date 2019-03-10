@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kotlin_2</string>
+    <string name="new_note_title">Новая заметка</string>
+</resources>
